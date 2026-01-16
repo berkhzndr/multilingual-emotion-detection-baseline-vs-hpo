@@ -26,12 +26,16 @@ The project includes:
 - Fixed training configuration
 - Serves as a fair and reproducible reference point
 
+![zeroshot_vs_baseline](result_tables/zeroshot_vs_baseline_result.png)
+
 ### Hyperparameter Optimization (HPO)
 
 - Learning rate variations
 - Epoch number adjustments
 - Comparative analysis across languages
 - Focus on behavioral changes, not only final metrics
+
+![hpo_vs_baseline](result_tables/baseline_vs_HPO_result.png)
 
 ## Evaluation Metrics
 - Accuracy
